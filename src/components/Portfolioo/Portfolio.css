@@ -1,0 +1,65 @@
+
+
+.portfolio_container{
+    align-items: center;
+   
+  background-color: #011627;;
+
+}
+.portfolioImage{
+    width: 100%;
+    height: 200px;
+    margin: 10px;
+
+}
+.portfolioContainer{
+  
+    background: rgba(170, 142, 142, 0.1);
+    color: #fff;
+    margin: 30px auto;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.section-title h2 {
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+.placeholder h5 {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+    font-size: 7vw;
+    color: transparent;
+   
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 0px;
+    letter-spacing: 0.8rem;
+}
+.placeholder{
+    text-align: center;
+    margin: 20px;
+    opacity: 0.2;
+    pointer-events: none;
+}
+.recentWork{
+    color: #fff;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+@media (max-width: 767px){
+.placeholder h5 {
+    font-size: 10vw;
+    letter-spacing: 0.2rem;
+}
+}
+@media (max-width: 767px){
+    .portfolio_container {
+        width: 100%;
+        margin: 5px auto;
+    }
+    }

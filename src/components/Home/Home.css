@@ -1,0 +1,40 @@
+.containerHome{
+    background: #1b1e33;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+    margin: auto;
+}
+.btn{
+    border: 2px solid #ff4a57;
+    border-radius: 50px;
+    padding: 13px 40px;
+    margin: 20px;
+    color:#fff ;  
+}.btnEmail{
+    border: 2px solid #ff4a57;
+    border-radius: 50px;
+    padding: 13px 40px;
+    margin: 20px;
+    color: #fff;
+    background-color: #1b1e33;
+}
+.btn:hover,.btnEmail:hover{
+    background-color: #ff4a57;
+    color: #fff;
+}
+.appLogo{
+  width: 80%;
+  align-items: center;
+  margin: auto;
+}
+h2{
+    font-size: 70px;
+    padding: 10px;
+}
+p{
+    font-size: 18px;
+}
