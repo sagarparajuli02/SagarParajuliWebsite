@@ -53,7 +53,10 @@ export default function Portfolioo() {
               </CardContent>
               <CardActions>
                 <Button size="small" color="primary">
-                  <a href="https://google.com" class="">
+                  <a
+                    href="https://github.com/sagarparajuli02/LaMonoApp"
+                    class=""
+                  >
                     View Project
                   </a>
                 </Button>
@@ -80,7 +83,10 @@ export default function Portfolioo() {
               </CardContent>
               <CardActions>
                 <Button size="small" color="primary">
-                  <a href="https://google.com" class="">
+                  <a
+                    href="https://github.com/sagarparajuli02/IELTSBand7"
+                    class=""
+                  >
                     View Project
                   </a>
                 </Button>
@@ -106,7 +112,10 @@ export default function Portfolioo() {
               </CardContent>
               <CardActions>
                 <Button size="small" color="primary">
-                  <a href="https://google.com" class="">
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.learn.programming.offline"
+                    class=""
+                  >
                     View Project
                   </a>
                 </Button>
@@ -133,7 +142,10 @@ export default function Portfolioo() {
               </CardContent>
               <CardActions>
                 <Button size="small" color="primary">
-                  <a href="https://google.com" class="">
+                  <a
+                    href="https://github.com/sagarparajuli02/ForumNepal"
+                    class=""
+                  >
                     View Project
                   </a>
                 </Button>
@@ -159,7 +171,10 @@ export default function Portfolioo() {
               </CardContent>
               <CardActions>
                 <Button size="small" color="primary">
-                  <a href="https://google.com" class="">
+                  <a
+                    href="https://github.com/sagarparajuli02/LogicGate-SImulation"
+                    class=""
+                  >
                     View Project
                   </a>
                 </Button>
