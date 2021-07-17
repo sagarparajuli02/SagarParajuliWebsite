@@ -1,23 +1,19 @@
 import { makeStyles } from "@material-ui/core/styles";
 
-const usePortfolio= makeStyles((theme)=>({
+const usePortfolio = makeStyles((theme) => ({
+  icon: {
+    paddingTop: "56.25%",
+  },
+  card: {
+    height: "auto",
 
-    icon:{
-        paddingTop:'56.25%',
-        
+    flexDirection: "row",
+    backgroundColor: "#fff",
+  },
 
-    },
-    card:{
-        height:'auto',
-       width:'300px',
-        flexDirection:'row'
-
-    },
-    cardContent:{
-        flexGrow:1,
-
-    },
-   
+  cardContent: {
+    flexGrow: 1,
+  },
 }));
 
-export default usePortfolio
+export default usePortfolio;
