@@ -1,44 +1,35 @@
-{
-  "name": "sagar-website",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://sagarparajuli.com/",
-  "dependencies": {
-    "@material-ui/icons": "^4.11.2",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "bootstrap": "^5.0.2",
-    "react": "^17.0.2",
-    "react-bootstrap": "^1.6.1",
-    "react-dom": "^17.0.2",
-    "react-router-dom": "^5.2.0",
-    "react-router-hash-link": "^2.4.3",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
-}
+**Privacy Policy – IELTS Band 7**
+
+IELTS Band 7 ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we handle your information when you use our mobile application.
+
+**1. Information We Collect**
+We may collect basic information such as device details, app usage data, and optional user-provided information (e.g., name or email if entered).
+
+**2. How We Use Information**
+We use the collected data to:
+
+* Improve app performance and user experience
+* Provide relevant features and updates
+* Monitor and analyze usage trends
+
+**3. Data Sharing**
+We do not sell or share your personal information with third parties, except when required by law or to provide essential app services (e.g., analytics).
+
+**4. Data Security**
+We take reasonable measures to protect your information from unauthorized access or disclosure.
+
+**5. Third-Party Services**
+Our app may use third-party services (such as analytics tools) that may collect information in accordance with their own privacy policies.
+
+**6. Children’s Privacy**
+Our app is not intended for children under 13. We do not knowingly collect personal data from children.
+
+**7. Changes to This Policy**
+We may update this Privacy Policy from time to time. Any changes will be reflected within the app.
+
+**8. Contact Us**
+If you have any questions, please contact us at:
+apps.sagarparajuli@gmail.com
+---
+
+By using IELTS Band 7, you agree to this Privacy Policy.
